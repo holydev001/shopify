@@ -1,7 +1,7 @@
 node_modules/
 .next/
 out/
-.env*
 !.env.example
 .vercel/
 *.log
+config.bat
