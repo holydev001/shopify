@@ -56,7 +56,7 @@ function ShoeFallback({ color }: { color: string }) {
 }
 
 function ShoePoster() {
-  return <div className="shoe-poster" aria-hidden="true"><img src="/models/orbit-shoe-cutout-v1.png" alt="" /></div>;
+  return <div className="shoe-poster" aria-hidden="true"><img src="/models/materials-variants-shoe-poster.png" alt="" /></div>;
 }
 
 function ShoeViewer() {
